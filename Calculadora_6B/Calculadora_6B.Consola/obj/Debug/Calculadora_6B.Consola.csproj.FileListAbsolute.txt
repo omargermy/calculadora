@@ -1,0 +1,28 @@
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.csproj.CoreCompileInputs.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb
+C:\Users\UInvitado\Downloads\Calculadora_6B-master\Calculadora_6B\Calculadora_6B.Consola\bin\Debug\Calculadora_6B.Consola.exe.config
+C:\Users\UInvitado\Downloads\Calculadora_6B-master\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.exe
+C:\Users\UInvitado\Downloads\Calculadora_6B-master\Calculadora_6B\Calculadora_6B.Consola\obj\Debug\Calculadora_6B.Consola.pdb

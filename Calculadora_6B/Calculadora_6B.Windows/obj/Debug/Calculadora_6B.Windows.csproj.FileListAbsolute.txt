@@ -1,0 +1,34 @@
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe.config
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Windows.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Form1.resources
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.Properties.Resources.resources
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.GenerateResource.Cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.csproj.CoreCompileInputs.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.exe
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Windows\obj\Debug\Calculadora_6B.Windows.pdb

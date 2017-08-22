@@ -1,0 +1,16 @@
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+C:\Users\Alumno\Desktop\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2012\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\bin\Debug\Calculadora_6B.Libreria.pdb
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csprojResolveAssemblyReference.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.dll
+C:\Users\RICARDOPS\Documents\Visual Studio 2017\Projects\Calculadora_6B\Calculadora_6B.Libreria\obj\Debug\Calculadora_6B.Libreria.pdb
